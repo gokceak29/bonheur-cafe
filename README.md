@@ -48,4 +48,4 @@ Personelin aktif siparişleri görüntüleyip hazırlık sürecini yönettiği p
 ### 6. Yapay Zeka Destekli Bonheur Asistan
 Canlı ortamda müşterilerin kalori ve içerik sorularını yanıtlayan sohbet asistanı:
 
-<img width="1920" height="1020" alt="Ekran görüntüsü 2026-06-22 102557" src="https://github.com/user-attachments/assets/590978bb-5d87-4887-87bc-5aae7fcec025" />
+<img width="1920" height="961" alt="Ekran görüntüsü 2026-06-22 102557" src="https://github.com/user-attachments/assets/c7b5be52-9234-4900-956e-477fcf4248e5" />
